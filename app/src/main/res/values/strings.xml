@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIProject</string>
+    <string name="name_genie">Name Genie</string>
+    <string name="make_api_request">Make API Request</string>
+</resources>
